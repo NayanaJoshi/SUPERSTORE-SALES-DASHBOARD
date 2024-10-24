@@ -28,4 +28,4 @@ segment towards achieving its targeted profit.
 
 • Slice each section of the shipping mode to identify its overall performance.
 
- 
+ https://github.com/NayanaJoshi/SUPERSTORE-SALES-DASHBOARD/blob/main/Snapshots/profit.JPG
