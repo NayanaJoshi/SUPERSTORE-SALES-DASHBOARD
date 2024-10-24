@@ -13,7 +13,7 @@ PROBLEM
 
 • Slice each segment and Business year according to the number of orders generated, number of goods sold and overall performance
 
- 
+https://github.com/NayanaJoshi/SUPERSTORE-SALES-DASHBOARD/blob/main/Snapshots/sales.JPG 
 
 
 
